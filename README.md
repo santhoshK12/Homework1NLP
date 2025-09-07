@@ -105,8 +105,3 @@ This README provides explanations for each question and instructions to run the 
    python homework1nlp.py
    ```  
 4. Or open `Homework1nlp.ipynb` in **Google Colab**.  
-
----
-
-👉 GitHub Repo Link (for submission):  
-[Homework1NLP](https://github.com/santhoshK12/Homework1NLP)  
