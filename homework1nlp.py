@@ -10,7 +10,7 @@ University of Central Missouri
 Department of Computer Science & Cybersecurity
 
 CS5760 Natural Language Processing
-Fall 2025
+Spring 2025
 
 
 
